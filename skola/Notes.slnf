@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "..\\Arbete\\Prog\\ConsoleApp3\\ConsoleApp3.sln",
+    "projects": [
+      "ConsoleApp3\\ConsoleApp3.csproj",
+      "TestProject1\\TestProject1.csproj"
+    ]
+  }
+}
